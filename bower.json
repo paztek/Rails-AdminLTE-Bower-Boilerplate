@@ -1,0 +1,7 @@
+{
+  "name": "RedHood",
+  "homepage": "",
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.2"
+  }
+}
