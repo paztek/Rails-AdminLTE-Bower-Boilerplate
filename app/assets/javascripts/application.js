@@ -16,7 +16,7 @@
 //= require turbolinks
 //
 // AdminLTE
-//= require bootstrap/dist/js/bootstrap
+//= require AdminLTE/bootstrap/js/bootstrap
 //= require AdminLTE/dist/js/app
 //
 // AdminLTE plugins

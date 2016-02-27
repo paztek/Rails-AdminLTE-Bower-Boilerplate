@@ -2,6 +2,7 @@
   "name": "RABB",
   "homepage": "",
   "dependencies": {
-    "AdminLTE": "admin-lte#^2.3.2"
+    "AdminLTE": "admin-lte#^2.3.2",
+    "font-awesome": "^4.5.0"
   }
 }
