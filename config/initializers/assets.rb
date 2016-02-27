@@ -8,7 +8,6 @@ Rails.application.config.assets.version = '1.0'
 
 # Add the path to the Bower components to the assets
 Rails.application.config.assets.paths << Rails.root.join('vendor', 'assets', 'bower_components')
-Rails.application.config.assets.precompile << Proc.new { |path| path =~ /font-awesome\/fonts/ and File.extname(path).in?(['.otf', '.eot', '.svg', '.ttf', '.woff']) }
 
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
